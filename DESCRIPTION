@@ -14,3 +14,5 @@ Suggests:
 RoxygenNote: 5.0.1
 Imports: rmarkdown,
     revealjs
+URL: https://github.com/stephlocke/stephStyle
+BugReports: https://github.com/stephlocke/stephStyle/issues
