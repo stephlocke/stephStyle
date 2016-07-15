@@ -1,0 +1,16 @@
+Package: stephStyle
+Title: Render formats
+Version: 1.0.0.0
+Authors@R: person("Steph", "Locke", email = "stephanie.g.locke@gmail.com", role = c("aut", "cre"))
+Description: Provides custom render formats for presentations and materials developed by Steph Locke.
+Depends:
+    R (>= 3.3.0)
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Suggests:
+    testthat,
+    covr
+RoxygenNote: 5.0.1
+Imports: rmarkdown,
+    revealjs
