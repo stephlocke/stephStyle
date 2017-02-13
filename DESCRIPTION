@@ -1,6 +1,6 @@
 Package: stephStyle
 Title: Render formats
-Version: 1.0.0.3
+Version: 1.0.0.4
 Authors@R: person("Steph", "Locke", email = "stephanie.g.locke@gmail.com", role = c("aut", "cre"))
 Description: Provides custom render formats for presentations and materials developed by Steph Locke.
 Depends:
