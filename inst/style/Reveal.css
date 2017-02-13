@@ -59,9 +59,9 @@
 
 .reveal pre code {
 font-size: 36px;
-max-height: 800px;
+max-height: 700px;
 line-height: 45px;}
 
 .reveal a {
-    color: #90C226;
+    color: white;
 }
